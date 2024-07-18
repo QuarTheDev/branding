@@ -1,4 +1,4 @@
-<h1 align="center">dummy</h1>
+<h1 align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/QuarTheDev/branding/blob/main/static/badge/compressed/badge_black.png?raw=true"><source media="(prefers-color-scheme: light)" srcset="https://github.com/QuarTheDev/branding/blob/main/static/badge/compressed/badge_black.png?raw=true"><img src="https://github.com/QuarTheDev/branding/blob/main/static/badge/compressed/badge_white.png?raw=true" width="256px"></picture></h1>
 <p align="center"><a href="https://github.com/QuarTheDev/branding"><code>quarthedev/branding</code></a> is a read-only repository dedicated to the current branding scheme.</p>
 <h3 align="center">🏅 Primary Logo</h3>
 
@@ -8,26 +8,21 @@
 ### 🖼️ Logo Gallery
 Here's an extensive list of logo variants for the Quar logo.
 
-| |Logo Preview|
+| |Logo Previews|
 |-|-|
-|**Template**|a logo or two would probably go nice here|
-|**Bold and Brash**|please insert gibberish here instead of this long placeholder|
+|**Coming Soon**|Various preview images will be featured here shortly!|
+|**Bold and Brash**|It will take some time as the repository is still in active development.|
 
 
 ### ⬇️ Downloads
-If you wish to download full, hi-res copies of the logo variants, all download links will be listed here in `.xcf`, `.psd`, and `.pdn` files for convenience.
+If you wish to download complete, full-resolution copies of the logo variants, all download links will be listed here in `.xcf`, `.psd`, and `.pdn` files for convenience.
 
 | | Name |
 |-|------|
-|<a href="https://"><img src="https://github.com/QuarTheDev/userscripts/blob/main/.github/images/download.png?raw=true" width="24px" alt="⬇️" title="Download">|**[Fig. *a*](https://)**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-|<a href="https://"><img src="https://github.com/QuarTheDev/userscripts/blob/main/.github/images/download.png?raw=true" width="24px" alt="⬇️" title="Download">|**[Fig. *b*](https://)**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-|<a href="https://"><img src="https://github.com/QuarTheDev/userscripts/blob/main/.github/images/download.png?raw=true" width="24px" alt="⬇️" title="Download">|**[Fig. *c*](https://)**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-|<a href="https://"><img src="https://github.com/QuarTheDev/userscripts/blob/main/.github/images/download.png?raw=true" width="24px" alt="⬇️" title="Download">|**[Fig. *d*](https://)**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-|<a href="https://"><img src="https://github.com/QuarTheDev/userscripts/blob/main/.github/images/download.png?raw=true" width="24px" alt="⬇️" title="Download">|**[Fig. *e*](https://)**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-|<a href="https://"><img src="https://github.com/QuarTheDev/userscripts/blob/main/.github/images/download.png?raw=true" width="24px" alt="⬇️" title="Download">|**[Fig. *f*](https://)**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-|<a href="https://"><img src="https://github.com/QuarTheDev/userscripts/blob/main/.github/images/download.png?raw=true" width="24px" alt="⬇️" title="Download">|**[Fig. *z* (just to upset you)](https://)**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+|<a href="https://github.com/QuarTheDev/branding/blob/main/down/menus/badge.md"><img src="https://github.com/QuarTheDev/userscripts/blob/main/.github/images/download.png?raw=true" width="24px" alt="⬇️" title="Download">|**[`badge`](https://github.com/QuarTheDev/branding/blob/main/down/menus/badge.md)**<br>A badge intended for branding purposes on repos or other places. It is a rounded badge that says 'Made By', followed by the 'Q'.
+|<a href="https://github.com/QuarTheDev/branding/blob/main/down/menus/logo_hi-res.md"><img src="https://github.com/QuarTheDev/userscripts/blob/main/.github/images/download.png?raw=true" width="24px" alt="⬇️" title="Download">|**[`logo_hi-res`](https://github.com/QuarTheDev/branding/blob/main/down/menus/logo_hi-res.md)**<br>The root 'Q', absent of any resizing, scaling, or borders present in [`logo_profile`](https://github.com/QuarTheDev/branding/blob/main/down/menus/logo_profile.md).
+|<a href="https://github.com/QuarTheDev/branding/blob/main/down/menus/logo_profile.md"><img src="https://github.com/QuarTheDev/userscripts/blob/main/.github/images/download.png?raw=true" width="24px" alt="⬇️" title="Download">|**[`logo_profile`](https://github.com/QuarTheDev/branding/blob/main/down/menus/logo_profile.md)**<br>The 'Q' logo with various borders and styles to customize for social media purposes. Cut to fit the standard circular profile picture frame.
+|<a href="https://github.com/QuarTheDev/branding/blob/main/down/menus/wordmark.md"><img src="https://github.com/QuarTheDev/userscripts/blob/main/.github/images/download.png?raw=true" width="24px" alt="⬇️" title="Download">|**[`logo_profile`](https://github.com/QuarTheDev/branding/blob/main/down/menus/wordmark.md)**<br>An experimental full-width logo spelling out 'Quar' with the same geometry of the root 'Q'.
 
 ---
 **&copy;** 2024 Quar. All rights reserved.
-
-!! DEVNOTE I'll get back to work on this eventually I've been up for two nights straight 😭
